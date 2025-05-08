@@ -22,7 +22,7 @@ This project uses machine learning to predict stock market trends based on histo
 1. Clone the repository:
 ```
 
-git clone [https://github.com/yourusername/ai-stock-market-predictor.git](https://github.com/yourusername/ai-stock-market-predictor.git)
+git clone [https://github.com/yourusername/ai-stock-market-predictor.git](https://github.com/kernelmaverick/ai-stock-market-predictor.git)
 
 ```
 2. Install dependencies:
